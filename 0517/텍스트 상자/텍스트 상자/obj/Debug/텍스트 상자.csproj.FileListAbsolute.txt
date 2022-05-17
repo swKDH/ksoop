@@ -1,0 +1,11 @@
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\bin\Debug\텍스트 상자.exe.config
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\bin\Debug\텍스트 상자.exe
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\bin\Debug\텍스트 상자.pdb
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트 상자.csproj.AssemblyReference.cache
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트 상자.csproj.SuggestedBindingRedirects.cache
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트_상자.Form1.resources
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트_상자.Properties.Resources.resources
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트 상자.csproj.GenerateResource.cache
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트 상자.csproj.CoreCompileInputs.cache
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트 상자.exe
+C:\Users\531kd\source\repos\텍스트 상자\텍스트 상자\obj\Debug\텍스트 상자.pdb

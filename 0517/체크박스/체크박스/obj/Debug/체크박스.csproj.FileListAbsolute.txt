@@ -1,0 +1,11 @@
+C:\Users\531kd\source\repos\체크박스\체크박스\bin\Debug\체크박스.exe.config
+C:\Users\531kd\source\repos\체크박스\체크박스\bin\Debug\체크박스.exe
+C:\Users\531kd\source\repos\체크박스\체크박스\bin\Debug\체크박스.pdb
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.csproj.AssemblyReference.cache
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.csproj.SuggestedBindingRedirects.cache
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.Form1.resources
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.Properties.Resources.resources
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.csproj.GenerateResource.cache
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.csproj.CoreCompileInputs.cache
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.exe
+C:\Users\531kd\source\repos\체크박스\체크박스\obj\Debug\체크박스.pdb
