@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "모달리스대화상자", "모달리스대화상자\모달리스대화상자.csproj", "{9860C9B2-5FB6-4603-9420-CE0278502A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9860C9B2-5FB6-4603-9420-CE0278502A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9860C9B2-5FB6-4603-9420-CE0278502A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9860C9B2-5FB6-4603-9420-CE0278502A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9860C9B2-5FB6-4603-9420-CE0278502A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1451A4B5-3F69-4C45-BD3C-AC11A00025D7}
+	EndGlobalSection
+EndGlobal

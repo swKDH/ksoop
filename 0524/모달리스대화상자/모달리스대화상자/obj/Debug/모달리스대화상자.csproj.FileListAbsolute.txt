@@ -1,0 +1,12 @@
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\bin\Debug\모달리스대화상자.exe.config
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\bin\Debug\모달리스대화상자.exe
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\bin\Debug\모달리스대화상자.pdb
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.csproj.AssemblyReference.cache
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.csproj.SuggestedBindingRedirects.cache
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.Form1.resources
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.Form2.resources
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.Properties.Resources.resources
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.csproj.GenerateResource.cache
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.csproj.CoreCompileInputs.cache
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.exe
+C:\Users\531kd\source\repos\모달리스대화상자\모달리스대화상자\obj\Debug\모달리스대화상자.pdb
