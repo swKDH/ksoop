@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="value" msprop:Generator_RowEvHandlerName="valueRowChangeEventHandler" msprop:Generator_RowDeletedName="valueRowDeleted" msprop:Generator_RowDeletingName="valueRowDeleting" msprop:Generator_RowEvArgName="valueRowChangeEvent" msprop:Generator_TablePropName="value" msprop:Generator_RowChangedName="valueRowChanged" msprop:Generator_RowChangingName="valueRowChanging" msprop:Generator_TableClassName="valueDataTable" msprop:Generator_RowClassName="valueRow" msprop:Generator_TableVarName="tablevalue" msprop:Generator_UserTableName="value">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="가죽자켓" msprop:Generator_ColumnPropNameInRow="가죽자켓" msprop:Generator_ColumnPropNameInTable="가죽자켓Column" msprop:Generator_ColumnVarNameInTable="column가죽자켓" msprop:Generator_UserColumnName="가죽자켓" type="xs:string" minOccurs="0" />
+              <xs:element name="모헤어_x0020_가디건" msprop:Generator_ColumnPropNameInRow="모헤어_가디건" msprop:Generator_ColumnPropNameInTable="모헤어_가디건Column" msprop:Generator_ColumnVarNameInTable="column모헤어_가디건" msprop:Generator_UserColumnName="모헤어 가디건" type="xs:string" minOccurs="0" />
+              <xs:element name="반팔셔츠" msprop:Generator_ColumnPropNameInRow="반팔셔츠" msprop:Generator_ColumnPropNameInTable="반팔셔츠Column" msprop:Generator_ColumnVarNameInTable="column반팔셔츠" msprop:Generator_UserColumnName="반팔셔츠" type="xs:string" minOccurs="0" />
+              <xs:element name="셔츠" msprop:Generator_ColumnPropNameInRow="셔츠" msprop:Generator_ColumnPropNameInTable="셔츠Column" msprop:Generator_ColumnVarNameInTable="column셔츠" msprop:Generator_UserColumnName="셔츠" type="xs:string" minOccurs="0" />
+              <xs:element name="니트" msprop:Generator_ColumnPropNameInRow="니트" msprop:Generator_ColumnPropNameInTable="니트Column" msprop:Generator_ColumnVarNameInTable="column니트" msprop:Generator_UserColumnName="니트" type="xs:string" minOccurs="0" />
+              <xs:element name="미니멀자켓" msprop:Generator_ColumnPropNameInRow="미니멀자켓" msprop:Generator_ColumnPropNameInTable="미니멀자켓Column" msprop:Generator_ColumnVarNameInTable="column미니멀자켓" msprop:Generator_UserColumnName="미니멀자켓" type="xs:string" minOccurs="0" />
+              <xs:element name="미니멀가디건" msprop:Generator_ColumnPropNameInRow="미니멀가디건" msprop:Generator_ColumnPropNameInTable="미니멀가디건Column" msprop:Generator_ColumnVarNameInTable="column미니멀가디건" msprop:Generator_UserColumnName="미니멀가디건" type="xs:string" minOccurs="0" />
+              <xs:element name="바시티자켓" msprop:Generator_ColumnPropNameInRow="바시티자켓" msprop:Generator_ColumnPropNameInTable="바시티자켓Column" msprop:Generator_ColumnVarNameInTable="column바시티자켓" msprop:Generator_UserColumnName="바시티자켓" type="xs:string" minOccurs="0" />
+              <xs:element name="쉘파카" msprop:Generator_ColumnPropNameInRow="쉘파카" msprop:Generator_ColumnPropNameInTable="쉘파카Column" msprop:Generator_ColumnVarNameInTable="column쉘파카" msprop:Generator_UserColumnName="쉘파카" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
